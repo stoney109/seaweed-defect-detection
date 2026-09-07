@@ -4,7 +4,6 @@ version = "1.0.0"
 description = "김(seaweed) 이물질 검출 — 이진분류에서 유형별 앙상블까지의 실험 기록"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { file = "LICENSE" }
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
