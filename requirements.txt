@@ -1,0 +1,17 @@
+# 학습·추론
+torch>=2.0
+torchvision>=0.15
+
+# 데이터 처리
+pandas>=1.5
+numpy>=1.23
+Pillow>=9.0
+
+# 시각화 (tools_analyze_dataset.py, tools_visualize_predictions.py)
+matplotlib>=3.6
+
+# 진행률 표시
+tqdm>=4.64
+
+# 테스트
+pytest>=7.0
